@@ -14,7 +14,7 @@ export default function App() {
   const containerStyle = {
     display: "flex",
     flexWrap: "wrap",
-    // justifyContent: "space-around",
+    
     justifyContent: "center",
     alignItems: "center",
     height: "100vh",
